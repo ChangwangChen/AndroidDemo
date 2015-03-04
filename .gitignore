@@ -1,1 +1,13 @@
+# for AndroidStudio
 .idea/
+
+#for Gradle
+.gradle/
+build/
+
+# for Local configuration files
+local.properties
+
+# for Generated files
+ bin/
+ gen/
